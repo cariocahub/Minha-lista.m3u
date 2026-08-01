@@ -1,18 +1,19 @@
 #EXTM3U
+#PLAYLISTv: pltv-name="Piratas do Caribe" pltv-description="Colecao de Filmes Piratas do Caribe"
 
-#EXTINF:-1 tvg-logo="https://share.google/rbfShNEjlrerqfpow" group-title="Piratas do Caribe" type="vod", Piratas do Caribe: A Maldição do Pérola Negra (2003)
+#EXTINF:-1 tvg-logo="https://share.google/rbfShNEjlrerqfpow" group-title="Filmes",Piratas do Caribe: A Maldição do Pérola Negra (2003)
 https://vaiquecol.com/cdn/hls/8f92a673072da984abe763fdd7b7a551/master.txt#video.m3u8
 
-#EXTINF:-1 tvg-logo="https://share.google/2ROewzEkX3khomA2C" group-title="Piratas do Caribe" type="vod", Piratas do Caribe: O Baú da Morte (2006)
+#EXTINF:-1 tvg-logo="https://share.google/2ROewzEkX3khomA2C" group-title="Filmes",Piratas do Caribe: O Baú da Morte (2006)
 https://vaiquecol.com/cdn/hls/a6911e535742140d3a8ae7e8c01a03cb/master.txt#video.m3u8
 
-#EXTINF:-1 tvg-logo="https://share.google/dLFKqikgam2wi339y" group-title="Piratas do Caribe" type="vod", Piratas do Caribe: No Fim do Mundo (2007)
+#EXTINF:-1 tvg-logo="https://share.google/dLFKqikgam2wi339y" group-title="Filmes",Piratas do Caribe: No Fim do Mundo (2007)
 https://vaiquecol.com/cdn/hls/ff0f384468ed80a5b3536dd36d4c26cf/master.txt#video.m3u8
 
-#EXTINF:-1 tvg-logo="https://share.google/LdGxdiNVPfDMttxFA" group-title="Piratas do Caribe" type="vod", Piratas do Caribe: Navegando em Águas Misteriosas (2011)
+#EXTINF:-1 tvg-logo="https://share.google/LdGxdiNVPfDMttxFA" group-title="Filmes",Piratas do Caribe: Navegando em Águas Misteriosas (2011)
 https://vaiquecol.com/cdn/hls/861332c308be3bfb83772a40517cc808/master.txt#video.m3u8
 
-#EXTINF:-1 tvg-logo="https://share.google/es1m2wzCmkMnAMc8F" group-title="Piratas do Caribe" type="vod", Piratas do Caribe: A Vingança de Salazar (2017)
+#EXTINF:-1 tvg-logo="https://share.google/es1m2wzCmkMnAMc8F" group-title="Filmes",Piratas do Caribe: A Vingança de Salazar (2017)
 https://vaiquecol.com/cdn/hls/e3acae16326dd89f27cc3f5d2ede70fd/master.txt#video.m3u8
 
 
